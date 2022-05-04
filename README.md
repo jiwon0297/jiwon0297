@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=cbdd69&text=%20Jiwon-Park%20%20&height=200&fontSize=50&fontColor=6e725a)
 <br>
 
-📚 **Tech Stack**📚
+## 📚 **Tech Stack**📚
 <br><br>
 What I'm studying is ...
 <br><br>
@@ -33,7 +33,7 @@ What I'm studying is ...
 
 
 <br><br>
-🌿**About Me**🌿
+## 🌿**About Me**🌿
 <br>
 <br>
 <a href="mailto:jiwon0297@naver.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiwon0297@naver.com"/></a><br>
@@ -42,7 +42,7 @@ What I'm studying is ...
 
   ***
 
-📊**Stats**📊
+## 📊**Stats**📊
 <br>
 
 ![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwon0297&show_icons=true&theme=gruvbox_light&hide_title=false&hide_border=true)
