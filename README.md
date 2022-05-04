@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=cbdd69&text=%20Jiwon-Park%20%20&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20💻&descAlignY=60&descAlign=67&height=200&fontSize=50&fontColor=6e725a)
+![header](https://capsule-render.vercel.app/api?type=wave&color=cbdd69&text=%20Jiwon-Park%20%20&animation=fadeIn&fontAlignY=48&desc=Software%20Developer%20💻&descAlignY=70&descAlign=57&height=200&fontSize=50&fontColor=6e725a)
 
 ### 📚 **Tech Stack** 📚
 What I'm studying is ...
