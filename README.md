@@ -14,7 +14,7 @@ Techs that I've used
 asdfadfa
 ## asdfads
   
-<div style="width:40%">	
+<div style="width:20px">	
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiwon0297)](https://solved.ac/jiwon0297/)
 
