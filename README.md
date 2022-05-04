@@ -16,12 +16,12 @@ asdfadfa
   
 <div style="width:20px">	
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiwon0297)](https://solved.ac/jiwon0297/)
 
 </div>
 
 <div style="width:40px">
   
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiwon0297)](https://solved.ac/jiwon0297/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwon0297&show_icons=true&theme=gruvbox_light&hide_title=true&font-size)
 
 </div
