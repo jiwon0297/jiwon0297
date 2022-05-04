@@ -15,7 +15,6 @@ What I'm studying is ...
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 <br>
-<br>
 
 ➕ Plus ➕
 <br>
@@ -27,7 +26,6 @@ What I'm studying is ...
 <img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
   
 
-<br>
 <br>
 
 ⛏ Tools ⛏
