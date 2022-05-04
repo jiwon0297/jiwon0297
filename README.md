@@ -1,9 +1,8 @@
 <div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=cbdd69&text=%20Jiwon-Park%20%20&height=200&fontSize=50&fontColor=6e725a)
-<br>
 
-## 📚 **Tech Stack**📚
+📚 **Tech Stack**📚
 <br><br>
 What I'm studying is ...
 <br><br>
@@ -33,22 +32,21 @@ What I'm studying is ...
 
 
 <br><br>
-## 🌿**About Me**🌿
+🌿**About Me**🌿
 <br>
 <br>
 <a href="mailto:jiwon0297@naver.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiwon0297@naver.com"/></a><br>
 <a href="https://blog.naver.com/PostList.naver?blogId=jiwon0297&from=postList&categoryNo=86&parentCategoryNo=86"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/PostList.naver?blogId=jiwon0297&from=postList&categoryNo=86&parentCategoryNo=86"/></a><br>
 <a href="https://instagram.com/onpixtuxx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/onpixtuxx"/></a><br>
 
-  ***
 
-## 📊**Stats**📊
+📊**Stats**📊
 <br>
 
 ![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwon0297&show_icons=true&theme=gruvbox_light&hide_title=false&hide_border=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiwon0297)](https://solved.ac/jiwon0297/)
 
-<br><br>
+<br>
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=cbdd69&height=200&section=footer)
 
 </div>
