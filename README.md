@@ -20,7 +20,10 @@ asdfadfa
 
 </div>
 
+<div style="width:40px">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwon0297&show_icons=true&theme=gruvbox_light&hide_title=true&font-size)
 
-
+</div
+  
 </div>
