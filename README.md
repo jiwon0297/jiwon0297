@@ -4,9 +4,9 @@
 <br>
 
 📚 **Tech Stack**📚
-
+<br><br>
 What I'm studying is ...
-<br>
+<br><br>
 📌 Mainly 📌
 <br>
 
@@ -38,8 +38,8 @@ What I'm studying is ...
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=181717"/>
 
-<br>
 
+<br><br>
 🌿**About Me**🌿
 
 
