@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=cbdd69&text=%20Jiwon-Park%20%20&height=200&fontSize=80&fontColor=5c6b0a)
+![header](https://capsule-render.vercel.app/api?type=wave&color=cbdd69&text=%20Jiwon-Park%20%20&height=200&fontSize=80&fontColor=7c8452)
 
 
 📚 **Tech Stack**📚
