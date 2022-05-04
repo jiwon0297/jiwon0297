@@ -44,9 +44,9 @@ What I'm studying is ...
 
 📊**Stats**📊
 <br>
-  
+
+![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwon0297&show_icons=true&theme=gruvbox_light&hide_title=true&hide_border=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiwon0297)](https://solved.ac/jiwon0297/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwon0297&show_icons=true&theme=gruvbox_light&hide_title=true&hide_border=true)
 
 <br><br>
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=cbdd69&height=200&section=footer)
