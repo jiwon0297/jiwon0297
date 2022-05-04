@@ -13,9 +13,7 @@ What I'm studying is ...
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-
-<br>
-
+<br><br>
 ➕ Plus ➕
 <br>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
@@ -24,10 +22,7 @@ What I'm studying is ...
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-  
-
-<br>
-
+<br><br>
 ⛏ Tools ⛏
 <br>
 <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/>
@@ -39,9 +34,13 @@ What I'm studying is ...
 
 <br><br>
 🌿**About Me**🌿
+<br>
+<br>
+<a href="mailto:jiwon0297@naver.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiwon0297@naver.com"/></a><br>
+<a href="https://blog.naver.com/PostList.naver?blogId=jiwon0297&from=postList&categoryNo=86&parentCategoryNo=86"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/PostList.naver?blogId=jiwon0297&from=postList&categoryNo=86&parentCategoryNo=86"/></a><br>
+<a href="https://instagram.com/onpixtuxx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/onpixtuxx"/></a><br>
 
-
-***
+  ***
 
 📊**Stats**📊
 <br>
