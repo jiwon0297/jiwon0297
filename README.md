@@ -21,6 +21,7 @@ What I'm studying is ...
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
   
 ##### ⛏ Tools ⛏
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
