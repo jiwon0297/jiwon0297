@@ -33,7 +33,6 @@ What I'm studying is ...
 ### 🌿 **About Me** 🌿
 
 <a href="mailto:jiwon0297@naver.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiwon0297@naver.com"/></a>
-<a href="https://blog.naver.com/PostList.naver?blogId=jiwon0297&from=postList&categoryNo=86&parentCategoryNo=86"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/PostList.naver?blogId=jiwon0297&from=postList&categoryNo=86&parentCategoryNo=86"/></a>
 <a href="https://instagram.com/onpixtuxx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/onpixtuxx"/></a>
 
 
