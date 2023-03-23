@@ -30,13 +30,6 @@ What I'm studying is ...
 
 
 <br><br>
-### 🌿 **About Me** 🌿
-
-<a href="mailto:jiwon0297@naver.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiwon0297@naver.com"/></a>
-<a href="https://instagram.com/onpixtuxx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/onpixtuxx"/></a>
-
-
-<br><br>
 ### 📊 **Stats** 📊
 
 <p>
